@@ -32,8 +32,8 @@
 <a href="https://linkedin.com/in/@sudhiksha v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@sudhiksha v" height="30" width="40" /></a>
 <a href="https://instagram.com/techiephoenixx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techiephoenixx" height="30" width="40" /></a>
 <a href="https://medium.com/@miss_pixel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@miss_pixel" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ms_dev_codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ms_dev_codes" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@ksha33yesvee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ksha33yesvee" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ms_dev_codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ms_dev_codes" height="30" width="40" /></a>
 </p>
 
 <br><br><br>
