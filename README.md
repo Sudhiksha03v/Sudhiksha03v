@@ -9,7 +9,7 @@
 
 - 📫Reach out to me at **ksha33yesvee@gmail.com**
 
-- ⚡ Fun fact **Believes that solution to any problem = 90% curiosity, 5% duct tape, and 5% memes! :)))**
+- ⚡**Solution to any problem = 90% curiosity, 5% duct tape, and 5% memes! :)))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
