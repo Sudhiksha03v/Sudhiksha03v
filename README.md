@@ -1,4 +1,4 @@
-<h1 align="center">Hello Multiverse!👋 I'm I'm Sushi aka Sudhiksha :)👾</h1>
+<h1 align="center">Hello Multiverse!👋 I'm Sushi👾</h1>
 <h3 align="center">Believes in code + memes + music = world peace!</h3>
 
 
