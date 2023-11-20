@@ -38,14 +38,6 @@
 
 <br><br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhiksha03v&" alt="sudhiksha03v" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhiksha03v&show_icons=true&locale=en&layout=compact" alt="sudhiksha03v" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhiksha03v&show_icons=true&locale=en" alt="sudhiksha03v" /></p>
-
-
-
-
-
-
 <br>
 <br>
 
