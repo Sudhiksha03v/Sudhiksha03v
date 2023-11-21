@@ -6,7 +6,7 @@
   
 - 📝Checkout tech & fun blogs at: [https://medium.com/@miss_pixel](https://medium.com/@miss_pixel)
 
-- 📫Reach out to me at **ksha33yesvee@gmail.com**
+- 📫Reach out to me at **sudhivasan3@gmail.com**
 
 - ⚡ Fun fact - **Believes that solution to any problem = 90% curiosity, 5% duct tape, and 5% memes! :)))**
 
