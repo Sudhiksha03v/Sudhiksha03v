@@ -2,13 +2,13 @@
 <h3 align="center">Believes in code + memes + music = world peace!</h3>
 
 <img align="right" alt="coding girl" width="300" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
-- 💻Web Developent | Design | Application dev | Web3 Enthusiast
+💻Web Developent | Design | Application dev | Web3 Enthusiast
   
 - 📝Checkout tech & fun blogs at: [https://medium.com/@miss_pixel](https://medium.com/@miss_pixel)
 
 - 📫Reach out to me at **ksha33yesvee@gmail.com**
 
-- ⚡ Fun fact **Believes that solution to any problem = 90% curiosity, 5% duct tape, and 5% memes! :)))**
+- ⚡ Fun fact - **Believes that solution to any problem = 90% curiosity, 5% duct tape, and 5% memes! :)))**
 
   <br>
 
