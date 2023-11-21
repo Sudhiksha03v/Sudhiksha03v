@@ -1,4 +1,4 @@
-<h1 align="center">👋🏻Hello Multiverse... I'm 𝕾𝖚𝖘𝖍𝖎👾</h1>
+<h1 align="center">👋🏻Hello World, I'm 𝕾𝖚𝖘𝖍𝖎👾</h1>
 <h3 align="center">Believes in code + memes + music = world peace!</h3>
 
 <img align="right" alt="coding girl" width="300" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
