@@ -36,6 +36,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhiksha03v&label=Profile%20views&color=0e75b6&style=flat" alt="sudhiksha03v" /> </p>
 <br>
 
+[![Sudhiksha's GitHub | Stats](https://stats.quine.sh/Sudhiksha/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sudhiksha)
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhiksha03v" alt="sudhiksha03v" /></a> </p>
 <br>
 
