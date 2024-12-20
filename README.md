@@ -1,5 +1,5 @@
 <h1 align="center">👋🏻Hey There, I'm Sushi👾</h1>
-<h3 align="center">💻AI Engineer | Web & Apps | Web 3.0 | Cloud</h3>
+<h3 align="center">💻AI Engineer | Dev (Web & Apps) | Web 3.0 | Cloud</h3>
 <br>
 
 <img align="left" alt="coding girl" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
@@ -18,7 +18,6 @@
 
   ➼ 📫Reach out to me at **sudhivasan3@gmail.com**
 </p>
-
 <br>
 <h3>Languages & Dev </h3>
 
