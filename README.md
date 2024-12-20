@@ -1,7 +1,7 @@
 <h1 align="center">👋🏻Hey There, I'm Sushi👾</h1>
 <h3 align="center">Believes in code + memes + music = world peace!</h3>
 
-<img align="right" alt="coding girl" width="300" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
+<img align="centre" alt="coding girl" width="1000" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
 💻AI Engineer | Web & Apps | Web 3.0 | Cloud
   
 - 📝Checkout tech & fun blogs at: [https://medium.com/@miss_pixel](https://medium.com/@miss_pixel)
