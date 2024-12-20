@@ -1,16 +1,26 @@
 <h1 align="center">👋🏻Hey There, I'm Sushi👾</h1>
-<h3 align="center">Believes in code + memes + music = world peace!</h3>
+<h3 align="center">💻AI Engineer | Web & Apps | Web 3.0 | Cloud</h3>
+<br>
 
-<img align="centre" alt="coding girl" width="1000" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
-💻AI Engineer | Web & Apps | Web 3.0 | Cloud
+<img align="left" alt="coding girl" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
+
+
+
+  <p >
+
+  ➼ Former Google DSC Lead '23 | Ex SWE Intern @Salesforce TrailHead 
   
-- 📝Checkout tech & fun blogs at: [https://medium.com/@miss_pixel](https://medium.com/@miss_pixel)
+   ➼ Thriving in the AI Buzz | Web 3.0 | Women Techmakers | MERN & Android
+  
+  ➼ Believes in "90% curiosity, 5% duct tape, and 5% memes" :)
+    
+  ➼ 📝Content & Blogs @ [https://medium.com/@miss_pixel](https://medium.com/@miss_pixel)
 
-- 📫Reach out to me at **sudhivasan3@gmail.com**
+  ➼ 📫Reach out to me at **sudhivasan3@gmail.com**
+</p>
 
-- ⚡ Fun fact - **Believes that solution to any problem = 90% curiosity, 5% duct tape, and 5% memes! :)))**
-
-  <br>
+<br>
+<br>
 <h3>Languages & Dev </h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -60,7 +70,7 @@
 
 
 <br>
-<h3 align="center">Connect with me </h3>
+<h3 align="center">HMU (Socials) </socials></h3>
 <p align="center">
   <a href="https://linkedin.com/in/@sudhiksha v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@sudhiksha v" height="30" width="40" /></a>
 <a href="https://twitter.com/sudhiksha_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudhiksha_v" height="30" width="40" /></a>
