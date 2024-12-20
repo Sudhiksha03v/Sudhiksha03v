@@ -6,9 +6,7 @@
 
 
 
-  <p >
-
-  ➼ Former Google DSC Lead '23 | Ex SWE Intern @Salesforce TrailHead 
+  <p > ➼ Former Google DSC Lead '23 | Ex SWE Intern @Salesforce TrailHead 
   
    ➼ Thriving in the AI Buzz | Web 3.0 | Women Techmakers | MERN & Android
   
@@ -67,7 +65,7 @@
 
 
 <br>
-<h3 align="center">HMU (Socials) </socials></h3>
+<h3 align="center">HMU!</socials></h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/sudhiksha03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@sudhiksha v" height="30" width="40" /></a>
 <a href="https://twitter.com/sudhiksha_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudhiksha_v" height="30" width="40" /></a>
