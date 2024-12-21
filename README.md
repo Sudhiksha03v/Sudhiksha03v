@@ -3,11 +3,11 @@
 <br>
 <img align="left" alt="coding girl" width="350" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
 <p >
-🎯 Ex Google DSC Lead '23 | Ex SWE Intern - Salesforce TrailHead | Freelance 
+🎯 Ex Google DSC Lead '23 | Ex SWE Intern - Salesforce TrailHead | Freelancer 
   
 👩‍💻 AI Engineer fairly, can build with MERN & ML. DApps interest me. 
 
-✨ Have a knack for clean code & good UX. Side Quests in tech? Always down!
+✨ Have a knack for clean code, Good UX. Side quests in tech? always up!
 
 🫱🏼‍🫲🏼 Open to Discussions & Collabs. 📬Reach out: <a href="mailto:ksha33yesvee@gmail.com">ksha33yesvee@gmail.com</a>
   
