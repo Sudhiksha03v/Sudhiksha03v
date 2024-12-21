@@ -15,9 +15,7 @@
   ➼ 📝For Tech blogs & content: [https://medium.com/@miss_pixel](https://medium.com/@miss_pixel)
 </p>
 <br>
-<div>
-   <h3 align="center"> 📫Reach out? **ksha33yesvee@gmail.com**</h3>
-</div>
+
 <br>
 <div align="center">
  <h3>Languages & Dev</h3>
