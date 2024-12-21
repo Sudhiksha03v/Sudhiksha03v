@@ -1,7 +1,7 @@
 <h1 align="center">👋🏻Hey There, I'm Sushi👾</h1>
 <h2 align="center">💻Developer | AI | Web 3.0 | Cloud | UX </h2>
 <br>
-<img align="left" alt="coding girl" width="340" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
+<img align="left" alt="coding girl" width="360" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
 <p >
 🎯 Ex Google DSC Lead '23 | Ex SWE Intern - Salesforce TrailHead | Freelance 
   
