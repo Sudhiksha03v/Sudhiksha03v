@@ -1,20 +1,21 @@
 <h1 align="center">👋🏻Hey There, I'm Sushi👾</h1>
-<h2 align="center">💻AI Engineer | Dev (Web & Apps) | Web 3.0 | Cloud</h2>
+<h2 align="center">💻Developer | AI | Web 3.0 | Cloud | UX </h2>
 <br>
 
 <img align="left" alt="coding girl" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
 
 
 
-  <p > ➼ Ex Google DSC Lead '23 | Ex SWE Intern - Salesforce TrailHead 
+  <p > ➼ Ex Google DSC Lead '23 | Ex SWE Intern - Salesforce TrailHead | Freelance 
   
-   ➼ Thriving in the AI Buzz | Web 3.0 | MERN & Android | WTM
+   ➼ Building with MERN primarily. Into the AI Buzz. Love working on dApps.  Have a knack for clean code & good UX. Side Quests in tech? Always down!
   
-  ➼ Believes in "90% curiosity, 5% duct tape, and 5% memes" :)
+  ➼ Funda I follow - 90% curiosity, 5% duct tape, and 5% memes solves everything.
     
   ➼ 📝For Tech blogs & content: [https://medium.com/@miss_pixel](https://medium.com/@miss_pixel)
 
   ➼ 📫Reach out to me at **ksha33yesvee@gmail.com**
+  
 </p>
 <br>
 <div align="center">
