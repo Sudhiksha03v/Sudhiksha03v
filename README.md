@@ -14,7 +14,7 @@
     
   ➼ 📝For Tech Blogs & Content, check out: [https://medium.com/@miss_pixel](https://medium.com/@miss_pixel)
 
-  ➼ 📫Reach out to me at **sudhivasan3@gmail.com**
+  ➼ 📫Reach out to me at **ksha33yesvee@gmail.com**
 </p>
 <br>
 <h3>Languages & Dev </h3>
