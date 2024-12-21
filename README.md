@@ -8,7 +8,7 @@
 
   <p > ➼ Ex Google DSC Lead '23 | Ex SWE Intern - Salesforce TrailHead | Freelance 
   
-   ➼ Building with MERN primarily. Into the AI Buzz. Love working on dApps.  Have a knack for clean code & good UX. Side Quests in tech? Always down!
+   ➼ AI Engineer primarily, can build with MERN. dApps interest me. Have a knack for clean code & good UX. Side Quests in tech? Always down!
   
   ➼ Funda I follow - 90% curiosity, 5% duct tape, and 5% memes solves everything.
     
