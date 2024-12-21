@@ -7,7 +7,7 @@
   
 👩‍💻 AI Engineer fairly, can build with MERN & ML. DApps interest me. 
 
-✨ Have a knack for clean code, Good UX. Side quests in tech? always up!
+✨ Have a knack for clean code, good UX. Side quests in tech? always up!
 
 🫱🏼‍🫲🏼 Open to Discussions & Collabs. 📬Reach out: <a href="mailto:ksha33yesvee@gmail.com">ksha33yesvee@gmail.com</a>
   
