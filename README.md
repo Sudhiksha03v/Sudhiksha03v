@@ -2,18 +2,21 @@
 <h2 align="center">💻Developer | AI | Web 3.0 | Cloud | UX </h2>
 <br>
 
-<img align="left" alt="coding girl" width="350" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
+<img align="left" alt="coding girl" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
 
 
 
   <p >
 🎯 Ex Google DSC Lead '23 | Ex SWE Intern - Salesforce TrailHead | Freelance 
   
-👩‍💻 AI Engineer fairly, can build with MERN & ML. DApps interest me. Have a knack for clean code & good UX. Side Quests in tech? Always down!
+👩‍💻 AI Engineer fairly, can build with MERN & ML. DApps interest me. 
+
+✨ Have a knack for clean code & good UX. Side Quests in tech? Always down!
+
+🫱🏼‍🫲🏼 Open to Discussions & Collabs. 📬Reach out: <a href="mailto:ksha33yesvee@gmail.com">ksha33yesvee@gmail.com</a>
   
 🤓 40% curiosity, 30% Logic, 25% Humor 5% duct tape xD.
     
-🚀 For Tech blogs & content: [https://medium.com/@miss_pixel](https://medium.com/@miss_pixel)
 </p>
 <br>
 
