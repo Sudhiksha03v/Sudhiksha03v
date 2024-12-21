@@ -8,15 +8,16 @@
 
   <p > ➼ Ex Google DSC Lead '23 | Ex SWE Intern - Salesforce TrailHead | Freelance 
   
-   ➼ AI Engineer primarily, can build with MERN. dApps interest me. Have a knack for clean code & good UX. Side Quests in tech? Always down!
+   ➼ AI Engineer primarily, can build with MERN & ML. dApps interest me. Have a knack for clean code & good UX. Side Quests in tech? Always down!
   
   ➼ Funda I follow - 90% curiosity, 5% duct tape, and 5% memes solves everything.
     
   ➼ 📝For Tech blogs & content: [https://medium.com/@miss_pixel](https://medium.com/@miss_pixel)
-
-  ➼ 📫Reach out to me at **ksha33yesvee@gmail.com**
-  
 </p>
+<br>
+<div>
+   <h3 align="center"> 📫Reach out? **ksha33yesvee@gmail.com**</h3>
+</div>
 <br>
 <div align="center">
  <h3>Languages & Dev</h3>
