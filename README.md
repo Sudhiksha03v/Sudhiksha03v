@@ -14,9 +14,7 @@
     
   ➼ 📝For Tech blogs & content: [https://medium.com/@miss_pixel](https://medium.com/@miss_pixel)
 </p>
-<br>
 
-<br>
 <div align="center">
  <h3>Languages & Dev</h3>
   <p>
