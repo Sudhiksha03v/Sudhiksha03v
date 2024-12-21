@@ -9,9 +9,9 @@
 
 ✨ Have a knack for clean code, good UX. Side quests in tech? always up!
 
-🫱🏼‍🫲🏼 Open to Discussions & Collabs. 📬Reach out: <a href="mailto:ksha33yesvee@gmail.com">ksha33yesvee@gmail.com</a>
+🫱🏼‍🫲🏼 Open to discussions & collabs. 📬Reach out: <a href="mailto:ksha33yesvee@gmail.com">ksha33yesvee@gmail.com</a>
   
-🤓 40% curiosity, 30% Logic, 25% Humor 5% duct tape xD.
+🤓 40% curiosity, 30% logic, 25% humor 5% duct tape xD.
     
 </p>
 <br>
