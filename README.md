@@ -11,7 +11,7 @@
   
 👩‍💻 AI Engineer fairly, can build with MERN & ML. DApps interest me. Have a knack for clean code & good UX. Side Quests in tech? Always down!
   
-🤓 Funda I follow - 90% curiosity, 5% duct tape, and 5% memes solves everything.
+🤓 40% curiosity, 30% Logic, 25% Humor 5% duct tape xD.
     
 🚀 For Tech blogs & content: [https://medium.com/@miss_pixel](https://medium.com/@miss_pixel)
 </p>
