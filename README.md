@@ -8,7 +8,7 @@
 
   <p > ➼ Former Google DSC Lead '23 | Ex SWE Intern @Salesforce TrailHead 
   
-   ➼ Thriving in the AI Buzz | Web 3.0 | Women Techmakers | MERN & Android
+   ➼ Thriving in the AI Buzz | Web 3.0 | MERN & Android | WTM
   
   ➼ Believes in "90% curiosity, 5% duct tape, and 5% memes" :)
     
