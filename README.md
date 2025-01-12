@@ -1,5 +1,5 @@
 <h1 align="center">👋🏻Hey There, I'm Sushi👾</h1>
-<h2 align="center">💻Developer • AI • Web 3.0 • Cloud • UX </h2>
+<h2 align="center">Developer • AI • Web 3.0 • Cloud • UX </h2>
 <br>
 <img align="left" alt="coding girl" width="355" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
 <p >
