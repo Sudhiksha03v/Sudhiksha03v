@@ -2,7 +2,7 @@
 <h2 align="center">Developer • AI • Web 3.0 • Cloud • UX </h2>
 <br>
 <img align="left" alt="coding girl" width="355" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
-<p >
+<p>
 🎯 Ex Google DSC Lead '23 | Ex SWE Intern - Salesforce TrailHead.
   
 👩‍💻 AI Engineer fairly, can build with MERN & ML. DApps interest me. 
