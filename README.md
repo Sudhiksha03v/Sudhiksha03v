@@ -2,11 +2,11 @@
 
 # Hiya, I'm sudhiksha aka sushie👾
 
-### SDE · Agentic ecosystems · Content · Chief of side quests
-40% dev, 35% product, 15% community, 5% nerd
-<br>
-
+### SDE · Agentic ecosystems · Content · Chief of side quests  
+40% dev, 35% product, 15% community, 5% nerd  
 5% everything else in between
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=9D8DF7&center=true&vCenter=true&width=500&lines=turning+%22what+if%22+into+%22here's+the+link%22;3am+hackathon+chaos+is+my+love+language;building+things+that+feel+good+to+use;serious+builder.+unserious+jokes." />
 
@@ -14,7 +14,10 @@
 
 ---
 
-<img align="right" height="520" width="340" src="https://i.pinimg.com/1200x/87/96/ae/8796ae42b099449075d10b3e6c769b0e.jpg" alt="coding gif" />
+<table>
+<tr>
+
+<td valign="top">
 
 ```javascript
 const sushi = {
@@ -45,8 +48,14 @@ const sushi = {
 };
 ```
 
-<br clear="right"/>
+</td>
 
+<td valign="top">
+<img width="340" height="570" src="https://i.pinimg.com/1200x/87/96/ae/8796ae42b099449075d10b3e6c769b0e.jpg"/>
+</td>
+
+</tr>
+</table>
 ---
 
 # What I'm mostly building with...
