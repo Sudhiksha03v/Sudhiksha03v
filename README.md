@@ -1,95 +1,168 @@
-<h1 align="center">👋🏻Hiya, I'm Sushi👾</h1>
-<h2 align="center">AI • Web • Cloud • UX </h2>
-<br>
-<img align="left" alt="coding girl" width="355" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
-<p>
-🎯 Ex Google DSC Lead '23 | Ex SWE Intern - Salesforce TrailHead.
-  
-👩‍💻 AI Engineer fairly, can build with MERN & ML. DApps interest me. 
+<div align="center">
 
-✨ Have a knack for clean code, good UX. Side quests in tech? always up!
+# Hiya, I'm sudhiksha aka sushie👾
 
-🫱🏼‍🫲🏼 Open to discussions & collabs. 📬Reach out: <a href="mailto:ksha33yesvee@gmail.com">ksha33yesvee@gmail.com</a>
-  
-🤓 40% curiosity, 30% logic, 25% humor 5% duct tape xD.
-    
-</p>
-<br>
+### SDE · Agentic ecosystems · Content · Chief of side quests
+40% dev, 35% product, 15% community, 5% nerd, 5% everything else in between
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=9D8DF7&center=true&vCenter=true&width=500&lines=turning+%22what+if%22+into+%22here's+the+link%22;3am+hackathon+chaos+is+my+love+language;building+things+that+feel+good+to+use;serious+builder.+unserious+jokes." />
+
+</div>
+
+---
+
+<img align="right" height="540" width="340" src="https://i.pinimg.com/1200x/87/96/ae/8796ae42b099449075d10b3e6c769b0e.jpg" alt="coding gif" />
+
+```javascript
+const sushi = {
+  name: "Sudhiksha V",
+  aka: "Sushi — chief of side quests",
+  pronouns: "she/her",
+  location: "Hyderabad, India 🇮🇳",
+
+  currently: [
+    "shipping things that I feel are useful and cute",
+    "going down AI rabbit holes at 3am",
+  ],
+
+  obsessions: [
+    "bug free code",
+    "goated-aura UI",
+    "hackathon chaos"
+  ],
+
+  vibe:
+    "40% dev, 35% product, 15% community, 5% nerd, 5% everything else in between",
+
+  openTo: [
+    "collabs and content",
+    "cool gigs with a goated UX",
+    "chaotic side quests"
+  ],
+};
+```
+
+<br clear="right"/>
+
+---
+
+# What I'm mostly building with...
 
 <div align="center">
-<h2>HMU!</h2>
-  <p>
-    <a href="https://www.linkedin.com/in/sudhiksha03" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
-    <a href="https://twitter.com/sudhiksha_v" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"></a>
-    <a href="https://instagram.com/techiephoenixx" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"></a>
-    <a href="https://medium.com/@miss_pixel" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40"></a>
-  </p>
-<br>
-  
- <h3>Languages & Dev</h3>
-  <p>
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-    <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
-  </p>
-  
-  <h3>Cloud</h3>
-  <p>
-    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
-    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
-    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
-  </p>
-  
-  <h3>Design & Game Dev</h3>
-  <p>
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white">
-    <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white">
-    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
-    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
-  </p>
-  
-  <h3>Competitive Programming</h3>
-  <p>
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-    <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue">
-    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white">
-  </p>
-  
-  
 
-   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg">
-  </picture>
-  <p>
-    
-  <h2>Trophy Vault?</h2>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=Sudhiksha03v&theme=radical&no-frame=false&no-bg=true&margin-w=4">
-  </p>
-<br>
-  <p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-  </p>
+### languages
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+---
+
+### web & mobile
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+---
+
+### ai / ml
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+### cloud & devops
+
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### design & game dev
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+</div>
+
+---
+
+# Something like a github wrapped?!
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhiksha03v&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+# flex? nat really...
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sudhiksha03v&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+
+</div>
+
+---
+
+# 🐍well...
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# good words for today :)
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+---
+
+# hit me up at
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sudhikshadev.vercel.app)[![LinkedIn](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/heyits.sushie/)[![Threads](https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white)](https://threads.com/@heyits.sushie)[![Medium](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sudhiksha03v)[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sudhiksha_v)[![Instagram](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sushiverse)[![Substack](https://img.shields.io/badge/Substack-%23FF6719.svg?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@thesushiversechronicles)
+
+</div>
+
+---
+
+<div align="center">
+
+### open for collabs · internships · hackathon chaos · random build sprints
+
+*if you made it this far, we should probably build something together.*
+
+<img src="https://komarev.com/ghpvc/?username=Sudhiksha03v&style=flat-square&color=9D8DF7" />
+
 </div>
