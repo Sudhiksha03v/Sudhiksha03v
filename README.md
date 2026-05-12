@@ -112,7 +112,7 @@ const sushi = {
 
 ---
 
-# flex? nat really...
+# flex? not really...
 
 <div align="center">
 
