@@ -6,12 +6,6 @@
 40% dev, 35% product, 15% community, 5% nerd  
 5% everything else in between
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=9D8DF7&center=true&vCenter=true&width=500&lines=turning+%22what+if%22+into+%22here's+the+link%22;3am+hackathon+chaos+is+my+love+language;building+things+that+feel+good+to+use;serious+builder.+unserious+jokes." />
-
-</div>
-
 ---
 
 <table>
@@ -29,12 +23,6 @@ const sushi = {
   currently: [
     "shipping things that I feel are useful and cute",
     "going down AI rabbit holes at 3am",
-  ],
-
-  obsessions: [
-    "bug free code",
-    "goated-aura UI",
-    "hackathon chaos"
   ],
 
   vibe:
