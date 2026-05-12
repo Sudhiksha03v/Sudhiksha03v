@@ -3,8 +3,6 @@
 # Hiya, I'm sudhiksha aka sushie👾
 
 ### SDE · Agentic ecosystems · Content · Chief of side quests  
-40% dev, 35% product, 15% community, 5% nerd  
-5% everything else in between
 
 ---
 
